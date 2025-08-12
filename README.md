@@ -1,3 +1,5 @@
+
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -6,6 +8,9 @@
 - 🌱 Aprendendo mais sobre Java, Javascript e Banco de Dados.
 
 ## Minhas Skills
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 **Aplicações e dados**
 
@@ -36,6 +41,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-RamonAmaral-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonamaral/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/ramonamaral/))
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramonamaral/)](https://www.linkedin.com/in/ramonamaral/)
 [![Gmail Badge](https://img.shields.io/badge/-contatoamaralramon@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoamaralramon@gmail.com)](mailto:contatoamaralramon@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Ramon-Amaral)
