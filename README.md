@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciências da Computação na FAM (5º semestre).
+- 🎓 Estudando Ciências da Computação na FAM (6º semestre).
 - 💼 Disponível para contratação!
 - 🌱 Aprendendo mais sobre Java, Javascript e Banco de Dados.
 
